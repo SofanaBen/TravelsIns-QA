@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109899" started-at="2018-12-21T03:37:05Z" finished-at="2018-12-21T03:38:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109899" started-at="2018-12-21T03:37:05Z" finished-at="2018-12-21T03:38:55Z">
+      <class name="pomDesign.SeachBylocationTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomDesign.SeachBylocationTest@b2c9a9c]" name="setUp" is-config="true" duration-ms="5563" started-at="2018-12-21T03:37:19Z" finished-at="2018-12-21T03:37:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchByLocation()[pri:0, instance:pomDesign.SeachBylocationTest@b2c9a9c]" name="SearchByLocation" duration-ms="80703" started-at="2018-12-21T03:37:25Z" finished-at="2018-12-21T03:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchByLocation -->
+      </class> <!-- pomDesign.SeachBylocationTest -->
+      <class name="pomDesign.FindAnAgentTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomDesign.FindAnAgentTest@4c178a76]" name="setUp" is-config="true" duration-ms="7082" started-at="2018-12-21T03:37:05Z" finished-at="2018-12-21T03:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomDesign.SeachBylocationTest@b2c9a9c]" name="setUp" is-config="true" duration-ms="6943" started-at="2018-12-21T03:37:12Z" finished-at="2018-12-21T03:37:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FindAnAgentSection()[pri:0, instance:pomDesign.FindAnAgentTest@4c178a76]" name="FindAnAgentSection" duration-ms="9227" started-at="2018-12-21T03:38:45Z" finished-at="2018-12-21T03:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindAnAgentSection -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pomDesign.FindAnAgentTest@4c178a76]" name="closeBrowser" is-config="true" duration-ms="190" started-at="2018-12-21T03:38:55Z" finished-at="2018-12-21T03:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pomDesign.SeachBylocationTest@b2c9a9c]" name="closeBrowser" is-config="true" duration-ms="162" started-at="2018-12-21T03:38:55Z" finished-at="2018-12-21T03:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pomDesign.FindAnAgentTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
